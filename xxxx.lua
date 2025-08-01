@@ -1,4 +1,2 @@
--- บน https://yourdomain.com/hax.lua
-print("🚀 เริ่มทำงานแล้ว")
+print("✅ Loaded from GitHub")
 TriggerServerEvent("ffa:join")
-
